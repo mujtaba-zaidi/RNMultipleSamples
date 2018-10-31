@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { StyleSheet, View } from "react-native";
-import Switch from "./Components/Switch";
 
 export default class App extends Component {
   render() {
