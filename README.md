@@ -1,7 +1,7 @@
 # Examples
 
 ## [**React Native Switch**](https://github.com/mujtaba-zaidi/RNMultipleSamples/tree/switch)
-Contains customized Switch which has properties which can be customized.
+Contains customized Switch which has properties which allow to customize the switch accordingly.
 
 ```ruby
 <Switch
