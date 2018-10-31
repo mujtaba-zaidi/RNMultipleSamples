@@ -16,10 +16,12 @@ Contains customized Switch which has properties which allow to customize the swi
   deactivatedRightBackgroundColor={"#f0f8ff"} // When left side is clicked then the background color for right side.
   deactivatedRightTextColor={"#5f9ea0"} // When left side is clicked then the text color for right side.
   containerWidth={"30%"} // Width of switch.
-  containerHeight={"5%"} // height of switch.
+  containerHeight={"5%"} // Height of switch.
   handleSwitch={this._handleSwitch} // The action you want to handle on switch. It'll give a boolean parameter which will be true on right side press and false on left side press. 
   leftImage={images.leftImage} // The image will be displayed on left side.
   rightImage={images.rightImage} // The image will be displayed on right side.
+  textStyle={{ fontSize: 20 }} // The text on the switch can be customized.
+
 />
 ```
 
