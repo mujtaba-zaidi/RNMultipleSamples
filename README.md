@@ -22,3 +22,11 @@ Contains customized Switch which has properties which allow to customize the swi
   rightImage={images.rightImage} // The image will be displayed on right side.
 />
 ```
+
+## Author
+
+**Mujtaba Zaidi**
+
+## Acknowledgments
+
+* [Icon Finder](https://www.iconfinder.com/) for free icons.
