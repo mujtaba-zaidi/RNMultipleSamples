@@ -1,6 +1,6 @@
-# Mutiple Samples for React Native
+# Mutiple Examples for React Native
 
-## Branch: [**switch**](https://github.com/mujtaba-zaidi/RNMultipleSamples/tree/switch)
+## Example: [**switch**](https://github.com/mujtaba-zaidi/RNMultipleSamples/tree/switch)
 Contains customized Switch which has properties which can be customized.
 
 ```ruby
