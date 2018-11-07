@@ -1,4 +1,4 @@
-# Examples
+# Example
 
 ## [**React Native Native-Modules**](https://github.com/mujtaba-zaidi/RNMultipleSamples/tree/nativeModules)
 
