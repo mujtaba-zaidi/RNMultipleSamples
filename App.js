@@ -1,7 +1,14 @@
 import React, { Component } from "react";
 import { StyleSheet, View } from "react-native";
-
+import ToastExample from "./ToastExample";
+import CallBackExample from "./CallBackExample";
 export default class App extends Component {
+  componentWillMount() {
+    ToastExample.show("Awesome", ToastExample.SHORT);
+    CallBackExample.getData(data => {
+      console.log(data);
+    });
+  }
   render() {
     return <View style={styles.container} />;
   }
