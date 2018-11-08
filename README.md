@@ -6,7 +6,3 @@ Contains example in which the Context API and [Socket Server](https://github.com
 ## Author
 
 **Mujtaba Zaidi**
-
-## Acknowledgments
-
-* [Icon Finder](https://www.iconfinder.com/) for free icons.
