@@ -8,4 +8,4 @@ Contains implementation of example of [Native Module](https://facebook.github.io
 
 ## Acknowledgments
 
-- [Icon Finder](https://www.iconfinder.com/) for free icons.
+- [Native Module](https://facebook.github.io/react-native/docs/native-modules-android) for documentation and examples.
