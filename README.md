@@ -1,6 +1,6 @@
-## [**React Native Reduxand Sockets**](https://github.com/mujtaba-zaidi/RNMultipleSamples/tree/reduxAndSockets)
+## [**React Native Redux and Sockets**](https://github.com/mujtaba-zaidi/RNMultipleSamples/tree/reduxAndSockets)
 
-Contains example in which the Context API and [Socket Server](https://github.com/mujtaba-zaidi/SocketServer/tree/master) is used to update the Child Compnent.
+Contains example in which the Redux and [Socket Server](https://github.com/mujtaba-zaidi/SocketServer/tree/master) is used to update the Child Compnent.
 
 ## Author
 
