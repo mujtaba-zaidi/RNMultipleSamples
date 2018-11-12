@@ -18,6 +18,10 @@ Contains example in which the Context API and [Socket Server](https://github.com
 
 Contains implementation of example of [Native Module](https://facebook.github.io/react-native/docs/native-modules-android) to display Toast and Callback from Native Module to React Native Component.
 
+## [**React Native Redux and Sockets**](https://github.com/mujtaba-zaidi/RNMultipleSamples/tree/reduxAndSockets)
+
+Contains example in which the Redux and [Socket Server](https://github.com/mujtaba-zaidi/SocketServer/tree/master) is used to update the Child Compnent.
+
 ## Author
 
 **Mujtaba Zaidi**
