@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { View, Text } from "react-native";
-import { containerStyle, styles } from "./style";
+import { containerStyle, nameStyle } from "./style";
 
 export default class ChildThree extends Component {
   constructor(props) {
@@ -8,9 +8,12 @@ export default class ChildThree extends Component {
   }
 
   render() {
+    let dimensions = this.props.dimensions;
     return (
-      <View style={containerStyle(this.props.dimensions)}>
-        <Text style={styles.name}>Child Three</Text>
+      <View style={containerStyle(dimensions).container}>
+        <Text style={nameStyle(dimensions).name}>
+          Child Three (Text based on Rotation with respect to Height.)
+        </Text>
       </View>
     );
   }

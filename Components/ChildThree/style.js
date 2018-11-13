@@ -1,17 +1,21 @@
 import { StyleSheet } from "react-native";
 
 export const containerStyle = dimensions => {
-  return {
-    height: (40 / 100) * dimensions.height,
-    width: (40 / 100) * dimensions.width,
-    borderWidth: 1
-  };
+  return StyleSheet.create({
+    container: {
+      height: (40 / 100) * dimensions.height,
+      width: (40 / 100) * dimensions.width,
+      backgroundColor: "steelblue"
+    }
+  });
 };
 
-export const styles = StyleSheet.create({
-  name: {
-    fontSize: 20,
-    textAlign: "center",
-    margin: 10
-  }
-});
+export const nameStyle = dimensions => {
+  return StyleSheet.create({
+    name: {
+      fontSize: (4 / 100) * dimensions.height,
+      textAlign: "center",
+      margin: 10
+    }
+  });
+};
