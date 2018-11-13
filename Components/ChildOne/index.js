@@ -7,7 +7,7 @@ export default class ChildOne extends Component {
     return (
       <View style={containerStyle(dimensions).container}>
         <Text style={nameStyle(dimensions).name}>
-          Child One (Text Size based on PixelRatio)
+          Text Size based on PixelRatio.
         </Text>
       </View>
     );

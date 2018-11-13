@@ -8,7 +8,7 @@ export default class ChildTwo extends Component {
     return (
       <View style={containerStyle(dimensions).container}>
         <Text style={nameStyle(dimensions).name}>
-          Child Two (Text based on Rotation with respect to Width.)
+          Text based on Rotation with respect to Width.
         </Text>
       </View>
     );

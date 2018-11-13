@@ -12,7 +12,7 @@ export default class ChildThree extends Component {
     return (
       <View style={containerStyle(dimensions).container}>
         <Text style={nameStyle(dimensions).name}>
-          Child Three (Text based on Rotation with respect to Height.)
+          Text based on Rotation with respect to Height.
         </Text>
       </View>
     );
