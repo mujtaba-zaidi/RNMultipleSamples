@@ -22,6 +22,10 @@ Contains implementation of example of [Native Module](https://facebook.github.io
 
 Contains example in which the Redux and [Socket Server](https://github.com/mujtaba-zaidi/SocketServer/tree/master) is used to update the Child Compnent.
 
+## [**React Native Responsive UI**](https://github.com/mujtaba-zaidi/RNMultipleSamples/tree/responsiveUI)
+
+Contains the simple responsive UI on the basis of screen rotaion and size.
+
 ## Author
 
 **Mujtaba Zaidi**
