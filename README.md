@@ -1,9 +1,5 @@
 # Examples
 
-## [**React Native Switch**](https://github.com/mujtaba-zaidi/RNMultipleSamples/tree/switch)
-
-Contains customized Switch which has properties which allow to customize the switch accordingly.
-
 ## [**React Native CheckBox**](https://github.com/mujtaba-zaidi/RNMultipleSamples/tree/checkbox)
 
 Contains customized Checkbox which has properties which allow to customize the switch accordingly.
